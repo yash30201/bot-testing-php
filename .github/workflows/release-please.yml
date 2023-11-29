@@ -18,3 +18,5 @@ jobs:
           release-type: php
           package-name: bot-testing-php
           token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-title-pattern: "chore(release): ${version}"
+          pull-request-header: ":robot: Merge this PR to release a new version"
