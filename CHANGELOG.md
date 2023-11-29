@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.0](https://github.com/yash30201/bot-testing-php/compare/v1.1.0...v1.2.0) (2023-11-29)
+
+
+### Features
+
+* Temp 1 ([948d1eb](https://github.com/yash30201/bot-testing-php/commit/948d1ebd716579d31b2c5136cbaee4767bf70d4c))
+* Temp 1 ([948d1eb](https://github.com/yash30201/bot-testing-php/commit/948d1ebd716579d31b2c5136cbaee4767bf70d4c))
+* Temp 1 ([5a59bd1](https://github.com/yash30201/bot-testing-php/commit/5a59bd1755bc4aaeaaa4b72c09d8d0653c0fd778))
+* Update version in composer ([906f81e](https://github.com/yash30201/bot-testing-php/commit/906f81ee077ba00ef2630e0531d76b5b783b1bae))
+
 ## [1.1.0](https://github.com/yash30201/bot-testing-php/compare/1.0.0...v1.1.0) (2023-11-29)
 
 
