@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.0](https://github.com/yash30201/bot-testing-php/compare/1.0.0...v1.1.0) (2023-11-29)
+
+
+### Features
+
+* Enable get hello ([bc1de5f](https://github.com/yash30201/bot-testing-php/commit/bc1de5ff1da85407ffa598cff18072b5e459a4a9))
+* Enable get hello ([bc1de5f](https://github.com/yash30201/bot-testing-php/commit/bc1de5ff1da85407ffa598cff18072b5e459a4a9))
+* Enable get hello ([5ef4e84](https://github.com/yash30201/bot-testing-php/commit/5ef4e848c146a426649cc60de54408912524449c))
+
+
+### Miscellaneous Chores
+
+* Update VERSION ([dfd380d](https://github.com/yash30201/bot-testing-php/commit/dfd380ddd487fc72d5e2ac5cca3984e815c16493))
+* Update VERSION ([122624d](https://github.com/yash30201/bot-testing-php/commit/122624dc45a28ee032c10c4f43f50c129af0880a))
+
 ## 1.0.0 (2023-11-29)
 
 
