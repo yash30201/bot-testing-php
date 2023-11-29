@@ -14,8 +14,8 @@ class DummyClient
         echo "Hello World" . PHP_EOL;
     }
 
-    public function setHello()
+    public function getHello()
     {
-        echo "Not implemented" . PHP_EOL;
+        echo "Hello" . PHP_EOL;
     }
 }
