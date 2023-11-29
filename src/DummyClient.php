@@ -8,4 +8,9 @@ class DummyClient
     {
         echo "Constructed\n";
     }
+
+    public function printHello()
+    {
+        echo "Hello World" . PHP_EOL;
+    }
 }
