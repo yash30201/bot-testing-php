@@ -14,8 +14,8 @@ class DummyClient
         echo "Hello World" . PHP_EOL;
     }
 
-    public function getHello()
+    public function noHello()
     {
-        echo "Hello" . PHP_EOL;
+        echo "No hello" . PHP_EOL;
     }
 }
