@@ -2,6 +2,7 @@
 
 /vendor/*
 /config/app.php
+composer.lock
 
 /tmp/cache/models/*
 !/tmp/cache/models/empty
@@ -17,9 +18,3 @@
 /logs/*
 !/logs/empty
 
-# CakePHP 2
-
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/vendors/*
